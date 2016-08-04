@@ -1,4 +1,3 @@
-layout_spectrum: 0.8983030791860074
 typography_spectrum: 0.4728897304739803
 color:
   brandStrength: 0.3660688709933311
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.8983030791860074
 name: Michael Stephensen
 title: Author
+description: in training
